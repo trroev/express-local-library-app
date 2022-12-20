@@ -2,7 +2,7 @@
 
 An Express/Node.js app to add/remove books, authors and genres to a database that is hosted by MongoDB. This was build using the [MDN Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
 
-**Check it out:** [Express LocalLibrary App](<[https://www.trevormathiak.dev](https://express-local-library-app-production.up.railway.app/catalog)>)
+**Check it out:** [Express LocalLibrary App](https://express-local-library-app-production.up.railway.app/catalog)
 
 ![page preview image](/public/images/local_library_screenshot.jpg)
 
